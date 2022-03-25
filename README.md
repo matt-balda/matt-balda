@@ -15,7 +15,7 @@
   <img align="center" alt="Balda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Balda-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Balda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/912886783891632158/957059515633770516/picasion.com_95d75a4819b1fa80e3a7b53f1f4767cf.gif">
 </div>
   
 ##
