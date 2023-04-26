@@ -11,7 +11,7 @@
   
   <img align="right" alt="Balda-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/912886783891632158/957059515633770516/picasion.com_95d75a4819b1fa80e3a7b53f1f4767cf.gif">
 </div>
-  
+<hr>
 <div>
   <a href="https://www.instagram.com/https_balda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusbalda89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
