@@ -1,4 +1,6 @@
-<span style="color:red">**Olá, mundo!**</span>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<h2>Olá! Eu sou o Mateus Balda</h2>
 
 ## Olá! Eu sou o Mateus Balda
 ### UPDATING
