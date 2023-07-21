@@ -19,4 +19,5 @@
   
 </div>
   
-  <img src="https://github.com/matt-balda/matt-balda/blob/output/github-contribution-grid-snake.svg" width="500%" alt="Snake animation">
+  <!-- <img src="https://github.com/matt-balda/matt-balda/blob/output/github-contribution-grid-snake.svg" width="500%" alt="Snake animation">
+  -->
