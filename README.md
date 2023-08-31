@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mattbalda89" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p>
 
-- 🔭 I’m currently working on **Not working**
+- 🔭 I’m currently **Not working**
 
 - 🌱 I’m currently learning **dart programming language and in the future NEXT.JS**
 
