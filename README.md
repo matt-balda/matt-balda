@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Balda</h1>
-<h3 align="center">A developer passionate about technologies</h3>
+<h3 align="center">Bring your challenge 🤠 </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattbalda89&label=Profile%20views&color=0e75b6&style=flat" alt="matt-balda" /> </p>
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/mattbal88" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p>
 
 - 🔭 I’m currently **Not working**
-
+- 📕 Software engineering student
 - 📫 How to reach me **mateusbalda89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
