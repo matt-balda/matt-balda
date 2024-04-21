@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattbalda89&label=Profile%20views&color=0e75b6&style=flat" alt="mattbalda89" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mattbal89" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mattbalda89" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p>
 
 - 🔭 I’m currently **Not working**
 - 📕 Software engineering student
