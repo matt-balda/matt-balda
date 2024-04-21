@@ -11,6 +11,7 @@
 
 - 🔭 I’m currently **Not working**
 - 📕 Software engineering student
+- ❤️ Things that i like: coffee, astronomy, philosophy, chess, reading e peculiar subjects
 - 📫 How to reach me **mateusbalda89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
