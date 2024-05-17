@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mattbalda89" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p>
 
-- 🔭 Currently **not working**
+- 🔭 I'm Currently **not working**
 - 📕 Software engineering student
 - ❤️ Things that i like: coffee, astronomy, philosophy, chess, reading e peculiar subjects
 - 📫 How to reach me **mateusbalda89@gmail.com**
