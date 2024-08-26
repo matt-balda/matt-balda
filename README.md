@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateus Balda</h1>
 <h3 align="center">Bring your challenge 🤠 </h3>
 
-[About me](./about-me.md) | [Skills](./skills.md) | [Certifications](./certifications.md)
+<!-- [About me](./about-me.md) | [Skills](./skills.md) | [Certifications](./certifications.md) -->
+
 <img align="right" alt="Coding" width="400" src="https://github.com/matt-balda/matt-balda/assets/94808306/62e2b229-deea-4c72-b2c2-d1de95a67cf6">
 <br>
 <br>
