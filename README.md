@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently **not working**
 - 📕 Software engineering student
-- ❤️ Things that i like: coffee, astronomy, philosophy, chess, reading e peculiar subjects
+- ❤️ Things that i like: coffee, astronomy, philosophy, chess, reading, peculiar subjects and neural networks
 - 📫 How to reach me **mateusbalda.contato@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
