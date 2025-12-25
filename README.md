@@ -9,8 +9,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/mattbalda89" target="blank"><img src="https://img.shields.io/twitter/follow/mattbalda89?logo=twitter&style=for-the-badge" alt="mattbalda89" /></a> </p> -->
 
-- 🔭 I'm currently **not working**
-- 📕 Software engineering student
+<!-- - 🔭 I'm currently **not working** -->
+- 📕 Master’s student in Computer Science
 - ❤️ Things that i like: coffee, astronomy, philosophy, chess, reading, peculiar subjects and neural networks
 - 📫 How to reach me: **mateusbalda.contato@outlook.com**
 
